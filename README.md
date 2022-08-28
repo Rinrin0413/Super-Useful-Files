@@ -14,6 +14,7 @@
 
 - [Shell](./assets/Shell/)
     - [Gitコミット(git-commit.sh)](./assets/Shell/git-commit.sh)
+    - [devブランチでプルプッシュ -> masterブランチでマージプルプッシュ -> devブランチに帰投](./assets/Shell/merge-dev.sh)
 
     </div>
 </details>
