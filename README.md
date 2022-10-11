@@ -15,7 +15,7 @@
 - [Shell](./assets/Shell/)
     - [Gitコミット(git-commit.sh)](./assets/Shell/git-commit.sh)
     - [devブランチでプルプッシュ -> masterブランチでマージプルプッシュ -> devブランチに帰投](./assets/Shell/merge-dev.sh)
-    - [VSCodeのバックアップとリストア](./assets/Shell/vscode-backup/)
+    - [VSCodeのバックアップとリストア(Linux)](./assets/Shell/vscode-backup/)
         - [バックアップ(vscode-backup.sh)](./assets/Shell/vscode-backup/vscode-backup.sh)
         - [リストア(vscode-restore.sh)](./assets/Shell/vscode-backup/vscode-restore.sh)
 
