@@ -18,6 +18,7 @@
     - [VSCodeのバックアップとリストア(Linux)](./assets/Shell/vscode-backup/)
         - [バックアップ(vscode-backup.sh)](./assets/Shell/vscode-backup/vscode-backup.sh)
         - [リストア(vscode-restore.sh)](./assets/Shell/vscode-backup/vscode-restore.sh)
+        - [開発版にリストア(vscode-restore_insiders.sh)](./assets/Shell/vscode-backup/vscode-restore_insiders.sh)
 
     </div>
 </details>
